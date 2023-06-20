@@ -1,2 +1,5 @@
-# 2023-
-지역치안경진대회 윤민서 장지윤 김민서 (대전세종충남)
+# 2023 2월
+지역치안경진대회 (대전세종충남)
+
+code :
+https://colab.research.google.com/drive/1uQ2aUSrfqSkpL0kWAaU4bMKe3zcVl3pG?usp=sharing
